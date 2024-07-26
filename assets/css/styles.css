@@ -1,0 +1,11 @@
+@media (max-width: 650px) {
+    .ivLarge360-container {
+        scale: 0.8;
+    }
+}
+
+@media (max-width: 550px) {
+    .ivLarge360-container {
+        scale: 0.55;
+    }
+}
