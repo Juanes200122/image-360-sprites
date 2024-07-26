@@ -83,12 +83,3 @@ const valorDisplays = document.querySelectorAll('#value');
     ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
     ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-
-
-</br></br></br>
-
-
-
-<p>
-Este `README.md` incluye una descripción clara del proyecto, instrucciones de instalación y uso, opciones de personalización, y pautas para contribuir al proyecto. Si necesitas hacer ajustes específicos a tu implementación, no dudes en modificar el contenido según sea necesario.
-</p>
